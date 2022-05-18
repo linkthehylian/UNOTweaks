@@ -7,6 +7,7 @@ Tweaks for Ubisoft's "UNO" available on [Steam](https://store.steampowered.com/a
 - Skip intro videos
 - Custom deck and card skins
 - Toggle to enable or disable V-Sync
+- Set your preferred FPS when V-Sync is disabled
 
 ### Credits
 - linkthehylian
