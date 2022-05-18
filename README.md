@@ -12,6 +12,7 @@ Tweaks for Ubisoft's "UNO".
 ### Installation
 
 - Drag and drop or copy and paste the `Assembly-CSharp.dll` to `Uno\UNO_Data\Managed`. ("**Replace the file in the destination**", if prompted)
+- If you want to backup the original `Assembly-CSharp.dll`, make sure you do that before replacing it!
 - You **must** own UNO on [Steam](https://store.steampowered.com/app/470220/UNO/) for these tweaks to work.
 
 ### Credits
