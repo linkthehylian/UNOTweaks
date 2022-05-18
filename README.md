@@ -5,7 +5,7 @@ Tweaks for Ubisoft's "UNO".
 
 ### Features
 - Skip intro videos
-- Custom deck and card skins
+- Custom deck and card skins (by [ExiMichi](https://github.com/ExiMichi))
 - Toggle to enable or disable V-Sync
 - Set your preferred FPS when V-Sync is disabled
 
