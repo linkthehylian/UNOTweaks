@@ -20,4 +20,6 @@ Tweaks for Ubisoft's "UNO".
 - [ExiMichi](https://github.com/ExiMichi)
 
 ### Disclaimer
-- I don't own "UNO", this is Ubisoft's game and it's their property. I've only included the classes I edited for this project and not the entire source code. Use either [ILSpy](https://github.com/icsharpcode/ILSpy) or [dnSpy](https://github.com/dnSpy/dnSpy) to make your own.
+- I don't own "UNO", this is Ubisoft's game and it's their property. I've only included the classes I edited for this project and not the entire source code. You can use either of the following .NET disassemblers to make your own:
+- [ILSpy](https://github.com/icsharpcode/ILSpy)
+- [dnSpy](https://github.com/dnSpy/dnSpy)
