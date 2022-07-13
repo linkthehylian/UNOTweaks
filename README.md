@@ -9,11 +9,13 @@ Tweaks for Ubisoft's "UNO".
 - Toggle to enable or disable V-Sync
 - Set your preferred FPS when V-Sync is disabled
 
+### Requirements
+- You **must** own UNO on Steam for these tweaks to work. https://store.steampowered.com/app/470220/UNO/
+
 ### Installation
 
 - Drag and drop or copy and paste the `Assembly-CSharp.dll` to `Uno\UNO_Data\Managed`. ("**Replace the file in the destination**", if prompted)
 - If you want to backup the original `Assembly-CSharp.dll`, make sure you do that before replacing it!
-- You **must** own UNO on [Steam](https://store.steampowered.com/app/470220/UNO/) for these tweaks to work.
 
 ### Credits
 - linkthehylian
