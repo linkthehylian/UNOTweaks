@@ -4,10 +4,12 @@
 Tweaks for Ubisoft's "UNO".
 
 ### Features
-- Skip intro videos
+- Skip intro videos (automatically applied once `UNOTweaks` is installed)
 - Custom deck and card skins (by [ExiMichi](https://github.com/ExiMichi), instructions can be found [here](https://github.com/linkthehylian/UNOTweaks/wiki/UNO-Skins))
 - Toggle to enable or disable V-Sync
 - Set your preferred FPS when V-Sync is disabled
+
+![img](https://user-images.githubusercontent.com/20933012/180174668-39affa04-c0fc-4c5a-8f14-ccbfbb30da01.png)
 
 ### Requirements
 - You **must** own UNO on Steam for these tweaks to work. https://store.steampowered.com/app/470220/UNO/
