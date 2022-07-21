@@ -8,6 +8,7 @@ Tweaks for Ubisoft's "UNO".
   - Automatically applied once `UNOTweaks` is installed
 - Custom deck and card skins (by [ExiMichi](https://github.com/ExiMichi), instructions can be found [here](https://github.com/linkthehylian/UNOTweaks/wiki/UNO-Skins))
   - Displayed at the bottom right, custom card and deck skins will only be applied once you've started a match
+  - You can also collapse the skin GUI by clicking the very top of it!
 - Toggle to enable or disable V-Sync
 - Set your preferred FPS when V-Sync is disabled
   - All accessible via the menu by pressing the `F1` key
